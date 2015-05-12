@@ -1,0 +1,22 @@
+p.zigged,
+ul.zigged,
+h2.zigged,
+h3.zigged{
+	color:#00ff00;
+	font-family: Zig;
+	list-style: none;
+}
+
+ul.zigged li{
+	margin-top: 10px;
+}
+
+a.retro,
+h2.retro {
+	color:#f7941d;
+}
+
+ul li{
+	color:#00ff00;
+	list-style: none;
+}
